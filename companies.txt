@@ -1,0 +1,16 @@
+1,Wal-Mart
+2,Kroger
+3,Amazon
+4,Lowes
+5,Best Western
+6,KMart
+7,Fusian
+8,Heinz
+9,Gucci
+10,Prada
+11,Nike
+12,Dodge
+13,Maserati
+14,Razor
+15,AMD
+16,Razer
