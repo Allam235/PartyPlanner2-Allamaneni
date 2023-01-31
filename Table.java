@@ -84,7 +84,7 @@ no args or returns
 no returns or args
   */
   public int manuelEnter() {
-    if (people.size() >= 90) {// there can be no more people added
+    if (people.size() >= np) {// there can be no more people added
       System.out.println("There are more than " + np + " so this person can not be added");
       return 0;
     }
